@@ -1,2 +1,2 @@
-# china-language-atlas
-中国语言地图集
+# china-language-atlas-2
+中国语言地图集（第2版）
